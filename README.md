@@ -9,7 +9,7 @@ It also implement algorithm that help you to deternmine amount of ingredients ba
 
 # The Complete JavaScript Course
 
-A majority of this quick start's content was inspired or adapted from Sahat's excellent [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/).
+A majority of this quick start's content was inspired or adapted from excellent [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/).
 
 ## License
 
